@@ -1,4 +1,4 @@
-**Part 1: **
+******Part 1: ******
 Scrape Titles and Preview Text from Mars News
 Automated browsing (with Splinter) was used to visit the Mars news site, and the HTML code was extracted (with Beautiful Soup).
 
